@@ -1,0 +1,10 @@
+
+.fondo{
+
+	width: 1500px;
+	height: 800px;
+	background-image: url(fotos/fondo.jpg);
+	
+	background-repeat: no-repeat;
+       
+}
